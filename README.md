@@ -25,3 +25,9 @@ Projeto desenvolvido em equipe por:
 - Gabriel Peixoto Weyne
 - Kauan Rafael Marques da Fonseca
 - Yhasmin Santos Almeida
+
+## Como executar
+
+```bash
+make
+./biblioteca-poe
